@@ -5,7 +5,7 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/supabase-community/auth-go/types"
+	"github.com/SafeVest/auth-go/types"
 )
 
 func TestOTP(t *testing.T) {

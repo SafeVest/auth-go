@@ -3,7 +3,7 @@ package auth
 import (
 	"net/http"
 
-	"github.com/supabase-community/auth-go/types"
+	"github.com/SafeVest/auth-go/types"
 )
 
 // Create a new client using auth.New, then you can call the methods below.
